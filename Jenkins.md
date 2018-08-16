@@ -83,7 +83,7 @@ You can look at the realtime logs of terraform's provisioning by SSH'ing to the 
 
 ```
   ## inside the container, using 2.89.2 as example
-  wget http://updates.jenkins-ci.org/download/war/2.89.2/jenkins.war
+  wget http://updates.jenkins-ci.org/download/war/<JENKINS_VERSION>/jenkins.war
 ```
 
 4. Move it to the correct place
